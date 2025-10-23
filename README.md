@@ -94,7 +94,7 @@ The Healthcare Symptom Checker is a production-ready, full-stack AI-powered medi
 
 ### 📹 Live Demo Video
 
-[![Healthcare Symptom Checker Demo](https://img.shields.io/badge/🎬%20Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/151tsEiB7GtM-h4byfucCxUEcjJl7z_bB/view)
+<video src="https://github.com/user-attachments/assets/15478795-1afe-400a-88d8-55e5afed053a" controls="controls" style="max-width: 720px;"></video>
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
 
