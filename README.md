@@ -1356,21 +1356,6 @@ Add screenshots for UI changes
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🆘 Support
-
-### Getting Help
-
-- **Documentation**: Check this README and API docs
-- **Issues**: Create a GitHub issue for bugs
-- **Discussions**: Use GitHub Discussions for questions
-- **Email**: Contact the development team
-
 ### Common Issues
 
 #### API Key Errors
@@ -1518,9 +1503,9 @@ python -c "from app.services.enhanced_rag_service import EnhancedRAGService; Enh
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/healthcare-symptom-checker?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/healthcare-symptom-checker)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/healthcare-symptom-checker?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/healthcare-symptom-checker)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/healthcare-symptom-checker?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/healthcare-symptom-checker/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Achuth-0908/Healthcare-Symptom-Checker?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/healthcare-symptom-checker)
+[![GitHub forks](https://img.shields.io/github/forks/Achuth-0908/Healthcare-Symptom-Checker?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/healthcare-symptom-checker)
+[![GitHub issues](https://img.shields.io/github/issues/Achuth-0908/Healthcare-Symptom-Checker?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/healthcare-symptom-checker/issues)
 
 </div>
 
