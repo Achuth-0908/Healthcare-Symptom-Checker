@@ -2,12 +2,46 @@
 
 <div align="center">
 
-![Healthcare Symptom Checker](https://img.shields.io/badge/Healthcare-AI%20Powered-blue?style=for-the-badge&logo=medical-cross)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+
+![Healthcare Symptom Checker](https://img.shields.io/badge/🏥%20Healthcare-AI%20Powered-blue?style=for-the-badge&logo=medical-cross)
+![Next.js](https://img.shields.io/badge/⚛️%20Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/🚀%20FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/📘%20TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/🐘%20PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/🐳%20Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0; color: white; text-align: center; box-shadow: 0 10px 30px rgba(102,126,234,0.3);">
+
+<h2 style="margin: 0; font-size: 1.8em;">🛠️ Technology Stack</h2>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; margin: 15px 0;">
+
+<div style="background: rgba(255,255,255,0.1); padding: 10px; border-radius: 8px;">
+<strong>Frontend</strong><br>
+Next.js, TypeScript, Tailwind CSS
+</div>
+
+<div style="background: rgba(255,255,255,0.1); padding: 10px; border-radius: 8px;">
+<strong>Backend</strong><br>
+FastAPI, Python, SQLAlchemy
+</div>
+
+<div style="background: rgba(255,255,255,0.1); padding: 10px; border-radius: 8px;">
+<strong>Database</strong><br>
+PostgreSQL, ChromaDB
+</div>
+
+<div style="background: rgba(255,255,255,0.1); padding: 10px; border-radius: 8px;">
+<strong>AI/ML</strong><br>
+Gemini, Groq, Jina AI
+</div>
+
+</div>
+
+</div>
 
 **Full-stack AI-powered medical symptom analysis with emergency detection and multi-turn conversation support**
 
@@ -56,21 +90,22 @@ The Healthcare Symptom Checker is a production-ready, full-stack AI-powered medi
 
 ## 🎬 Demo
 
-<!-- Add your demo video here -->
 <div align="center">
 
 ### 📹 Live Demo Video
 
-[![Healthcare Symptom Checker Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Healthcare Symptom Checker Demo](https://img.shields.io/badge/🎬%20Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/151tsEiB7GtM-h4byfucCxUEcjJl7z_bB/view)
 
-*Click the image above to watch the full demo video*
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
 
-**Demo Highlights:**
-- 🚨 Emergency detection in action
-- 💬 Multi-turn conversation flow
-- 📊 Comprehensive health assessments
-- 🎨 Modern, responsive UI
-- 📱 Mobile-optimized experience
+**🎯 Demo Highlights:**
+- 🚨 **Emergency Detection**: Real-time identification of life-threatening conditions
+- 💬 **Multi-turn Conversations**: Context-aware symptom discussions
+- 📊 **Health Assessments**: Comprehensive medical analysis and recommendations
+- 🎨 **Modern UI**: Clean, responsive design with intuitive user experience
+- 📱 **Mobile Optimized**: Seamless experience across all devices
+
+</div>
 
 </div>
 
@@ -78,17 +113,29 @@ The Healthcare Symptom Checker is a production-ready, full-stack AI-powered medi
 
 ## ✨ Features
 
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
+
+<div style="background: linear-gradient(135deg, #ff6b6b 0%, #ee5a24 100%); padding: 20px; border-radius: 15px; color: white; box-shadow: 0 8px 25px rgba(255,107,107,0.3);">
+
 ### 🚨 Emergency Detection
 - **Real-time Analysis**: Instant detection of emergency keywords and symptoms
 - **Severity Assessment**: 1-10 scale with automatic triage recommendations
 - **Emergency Alerts**: Immediate warnings with 911 call integration
 - **Life-threatening Conditions**: Heart attack, stroke, severe allergic reactions
 
+</div>
+
+<div style="background: linear-gradient(135deg, #4ecdc4 0%, #44a08d 100%); padding: 20px; border-radius: 15px; color: white; box-shadow: 0 8px 25px rgba(78,205,196,0.3);">
+
 ### 🧠 AI-Powered Analysis
 - **Dual LLM Support**: Gemini for reasoning, Groq for speed
 - **Context Awareness**: Multi-turn conversation memory
 - **Medical Reasoning**: Detailed explanations of assessments
 - **Confidence Scoring**: Probability-based condition matching
+
+</div>
+
+<div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 20px; border-radius: 15px; color: #333; box-shadow: 0 8px 25px rgba(168,237,234,0.3);">
 
 ### 📊 Comprehensive Medical Knowledge
 - **775+ Medical Conditions**: Extensive database with symptoms and treatments
@@ -97,6 +144,10 @@ The Healthcare Symptom Checker is a production-ready, full-stack AI-powered medi
 - **Body System Mapping**: Cardiovascular, respiratory, neurological, etc.
 - **Treatment Recommendations**: Evidence-based care suggestions
 
+</div>
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white; box-shadow: 0 8px 25px rgba(102,126,234,0.3);">
+
 ### 🎨 Modern Frontend
 - **Responsive Design**: Optimized for desktop, tablet, and mobile
 - **Interactive Chat**: Real-time conversation interface
@@ -104,17 +155,29 @@ The Healthcare Symptom Checker is a production-ready, full-stack AI-powered medi
 - **Emergency Alerts**: Prominent emergency notification system
 - **Type Safety**: Full TypeScript implementation
 
+</div>
+
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; color: white; box-shadow: 0 8px 25px rgba(240,147,251,0.3);">
+
 ### 🔒 Production Security
 - **Rate Limiting**: Configurable request throttling
 - **Security Headers**: CORS, XSS protection, content security
 - **Audit Logging**: Complete request/response tracking
 - **Input Validation**: Comprehensive data sanitization
 
+</div>
+
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; color: white; box-shadow: 0 8px 25px rgba(79,172,254,0.3);">
+
 ### 📈 Scalability & Performance
 - **Async Operations**: Non-blocking I/O with FastAPI
 - **Database Pooling**: Optimized PostgreSQL connections
 - **Caching**: Vector database with ChromaDB
 - **Containerization**: Docker and Docker Compose ready
+
+</div>
+
+</div>
 
 ---
 
@@ -273,13 +336,43 @@ graph TB
 
 ## 🚀 Quick Start
 
-### Prerequisites
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 20px 0; color: white; text-align: center; box-shadow: 0 15px 35px rgba(102,126,234,0.3);">
 
-- **Node.js 18+** (for frontend)
-- **Python 3.11+** (for backend)
-- **PostgreSQL 13+**
-- **Docker & Docker Compose** (optional)
-- **API Keys**: Gemini, Groq, and Jina AI
+<h3 style="margin: 0; font-size: 1.5em;">⚡ Get Started in Minutes</h3>
+<p style="margin: 10px 0 0 0; opacity: 0.9;">Follow these simple steps to run the full-stack application locally</p>
+
+</div>
+
+### 📋 Prerequisites
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 20px 0;">
+
+<div style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%); padding: 15px; border-radius: 10px; text-align: center; box-shadow: 0 5px 15px rgba(255,154,158,0.2);">
+<strong>🟢 Node.js 18+</strong><br>
+<small>Frontend Development</small>
+</div>
+
+<div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 15px; border-radius: 10px; text-align: center; box-shadow: 0 5px 15px rgba(168,237,234,0.2);">
+<strong>🐍 Python 3.11+</strong><br>
+<small>Backend Development</small>
+</div>
+
+<div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); padding: 15px; border-radius: 10px; text-align: center; box-shadow: 0 5px 15px rgba(255,236,210,0.2);">
+<strong>🐘 PostgreSQL 13+</strong><br>
+<small>Database</small>
+</div>
+
+<div style="background: linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%); padding: 15px; border-radius: 10px; text-align: center; box-shadow: 0 5px 15px rgba(161,196,253,0.2);">
+<strong>🐳 Docker</strong><br>
+<small>Containerization</small>
+</div>
+
+<div style="background: linear-gradient(135deg, #ff8a80 0%, #ffab91 100%); padding: 15px; border-radius: 10px; text-align: center; box-shadow: 0 5px 15px rgba(255,138,128,0.2);">
+<strong>🔑 API Keys</strong><br>
+<small>Gemini, Groq, Jina AI</small>
+</div>
+
+</div>
 
 ### 1. Clone Repository
 
@@ -786,7 +879,33 @@ class Settings(BaseSettings):
 
 ## 🚀 Deployment
 
-### Docker Deployment (Recommended)
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 20px 0; color: white; text-align: center; box-shadow: 0 15px 35px rgba(102,126,234,0.3);">
+
+<h3 style="margin: 0; font-size: 1.5em;">🚀 Deploy to Production</h3>
+<p style="margin: 10px 0 0 0; opacity: 0.9;">Choose your preferred deployment method</p>
+
+</div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 20px 0;">
+
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; color: white; text-align: center; box-shadow: 0 10px 25px rgba(79,172,254,0.3);">
+<h4 style="margin: 0 0 10px 0;">🐳 Docker</h4>
+<p style="margin: 0; font-size: 0.9em; opacity: 0.9;">Recommended for full-stack deployment</p>
+</div>
+
+<div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 20px; border-radius: 15px; color: white; text-align: center; box-shadow: 0 10px 25px rgba(67,233,123,0.3);">
+<h4 style="margin: 0 0 10px 0;">☁️ Vercel + Render</h4>
+<p style="margin: 0; font-size: 0.9em; opacity: 0.9;">Frontend + Backend separation</p>
+</div>
+
+<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 20px; border-radius: 15px; color: white; text-align: center; box-shadow: 0 10px 25px rgba(250,112,154,0.3);">
+<h4 style="margin: 0 0 10px 0;">🚂 Railway</h4>
+<p style="margin: 0; font-size: 0.9em; opacity: 0.9;">Full-stack platform</p>
+</div>
+
+</div>
+
+### 🐳 Docker Deployment (Recommended)
 
 #### 1. Full-Stack Docker Compose
 
@@ -1235,6 +1354,23 @@ Add screenshots for UI changes
 - [ ] Documentation updated
 ```
 
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🆘 Support
+
+### Getting Help
+
+- **Documentation**: Check this README and API docs
+- **Issues**: Create a GitHub issue for bugs
+- **Discussions**: Use GitHub Discussions for questions
+- **Email**: Contact the development team
+
 ### Common Issues
 
 #### API Key Errors
@@ -1247,7 +1383,7 @@ echo $JINA_API_KEY
 # Verify .env file
 cat .env
 ```
----
+
 #### Database Connection Issues
 ```bash
 # Test database connection
@@ -1278,36 +1414,147 @@ python -c "from app.services.enhanced_rag_service import EnhancedRAGService; Enh
 
 ## 🎯 Roadmap
 
-### Upcoming Features
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 20px 0; color: white; text-align: center; box-shadow: 0 15px 35px rgba(102,126,234,0.3);">
 
-- [ ] **Multi-language Support**: Spanish, French, German
-- [ ] **Voice Integration**: Speech-to-text symptom input
-- [ ] **Image Analysis**: Photo-based symptom assessment
-- [ ] **Telemedicine Integration**: Video consultation booking
-- [ ] **Mobile App**: Native iOS and Android apps
-- [ ] **Advanced Analytics**: Usage patterns and insights
-- [ ] **Integration APIs**: EHR system connections
-- [ ] **AI Model Fine-tuning**: Custom medical model training
-- [ ] **Dark Mode**: Theme switching capability
-- [ ] **Offline Support**: Service worker implementation
-- [ ] **Push Notifications**: Real-time updates
-- [ ] **PWA Support**: Progressive Web App features
+<h3 style="margin: 0; font-size: 1.5em;">🚀 Future Development</h3>
+<p style="margin: 10px 0 0 0; opacity: 0.9;">Exciting features coming soon</p>
 
-### Version History
+</div>
 
-- **v1.0.0** (Current): Core symptom analysis with emergency detection
-- **v1.1.0** (Planned): Multi-language support
-- **v1.2.0** (Planned): Voice input and image analysis
-- **v2.0.0** (Planned): Telemedicine platform integration
+### 🔮 Upcoming Features
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
+
+<div style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 25px rgba(255,154,158,0.3);">
+
+**🌍 Multi-language Support**
+- Spanish, French, German
+- Localized medical terminology
+- Cultural health considerations
+
+</div>
+
+<div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 25px rgba(168,237,234,0.3);">
+
+**🎤 Voice Integration**
+- Speech-to-text symptom input
+- Voice-based conversation
+- Accessibility improvements
+
+</div>
+
+<div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 25px rgba(255,236,210,0.3);">
+
+**📸 Image Analysis**
+- Photo-based symptom assessment
+- Skin condition recognition
+- Medical image processing
+
+</div>
+
+<div style="background: linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 25px rgba(161,196,253,0.3);">
+
+**📹 Telemedicine Integration**
+- Video consultation booking
+- Real-time doctor connections
+- Appointment scheduling
+
+</div>
+
+<div style="background: linear-gradient(135deg, #ff8a80 0%, #ffab91 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 25px rgba(255,138,128,0.3);">
+
+**📱 Mobile App**
+- Native iOS and Android apps
+- Offline functionality
+- Push notifications
+
+</div>
+
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 25px rgba(79,172,254,0.3);">
+
+**📊 Advanced Analytics**
+- Usage patterns and insights
+- Health trend analysis
+- Predictive modeling
+
+</div>
+
+</div>
+
+### 📅 Version History
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin: 20px 0;">
+
+<div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 20px; border-radius: 15px; color: white; text-align: center; box-shadow: 0 8px 25px rgba(67,233,123,0.3);">
+<h4 style="margin: 0 0 10px 0;">✅ v1.0.0 (Current)</h4>
+<p style="margin: 0; font-size: 0.9em; opacity: 0.9;">Core symptom analysis with emergency detection</p>
+</div>
+
+<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 20px; border-radius: 15px; color: white; text-align: center; box-shadow: 0 8px 25px rgba(250,112,154,0.3);">
+<h4 style="margin: 0 0 10px 0;">🔄 v1.1.0 (Planned)</h4>
+<p style="margin: 0; font-size: 0.9em; opacity: 0.9;">Multi-language support</p>
+</div>
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white; text-align: center; box-shadow: 0 8px 25px rgba(102,126,234,0.3);">
+<h4 style="margin: 0 0 10px 0;">🚀 v1.2.0 (Planned)</h4>
+<p style="margin: 0; font-size: 0.9em; opacity: 0.9;">Voice input and image analysis</p>
+</div>
+
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; color: white; text-align: center; box-shadow: 0 8px 25px rgba(240,147,251,0.3);">
+<h4 style="margin: 0 0 10px 0;">🌟 v2.0.0 (Planned)</h4>
+<p style="margin: 0; font-size: 0.9em; opacity: 0.9;">Telemedicine platform integration</p>
+</div>
+
+</div>
 
 ---
 
 <div align="center">
 
-**Built with ❤️ for better healthcare accessibility**
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 30px 0; color: white; box-shadow: 0 20px 40px rgba(102,126,234,0.3);">
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/healthcare-symptom-checker?style=social)](https://github.com/yourusername/healthcare-symptom-checker)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/healthcare-symptom-checker?style=social)](https://github.com/yourusername/healthcare-symptom-checker)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/healthcare-symptom-checker)](https://github.com/yourusername/healthcare-symptom-checker/issues)
+<h2 style="margin: 0 0 15px 0; font-size: 2em;">💖 Built with Love</h2>
+<p style="margin: 0 0 20px 0; font-size: 1.2em; opacity: 0.9;">for better healthcare accessibility</p>
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/healthcare-symptom-checker?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/healthcare-symptom-checker)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/healthcare-symptom-checker?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/healthcare-symptom-checker)
+[![GitHub issues](https://img.shields.io/github/issues/yourusername/healthcare-symptom-checker?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/healthcare-symptom-checker/issues)
+
+</div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 20px 0;">
+
+<div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px; text-align: center;">
+<strong>🏥 Healthcare</strong><br>
+<small>AI-Powered Medical Analysis</small>
+</div>
+
+<div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px; text-align: center;">
+<strong>🚨 Emergency Detection</strong><br>
+<small>Life-Saving Technology</small>
+</div>
+
+<div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px; text-align: center;">
+<strong>💬 Smart Conversations</strong><br>
+<small>Context-Aware AI</small>
+</div>
+
+<div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px; text-align: center;">
+<strong>🌐 Open Source</strong><br>
+<small>Community Driven</small>
+</div>
+
+</div>
+
+</div>
+
+<div style="margin: 20px 0; padding: 20px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 15px; color: white; text-align: center; box-shadow: 0 10px 30px rgba(240,147,251,0.3);">
+
+<h3 style="margin: 0 0 10px 0;">🌟 Star this repository if you found it helpful!</h3>
+<p style="margin: 0; opacity: 0.9;">Your support helps us improve healthcare technology for everyone</p>
+
+</div>
 
 </div>
